@@ -39,4 +39,4 @@
 └─test
 ~~~
 
-从当前index页面跳转到report页面，只需直接在链接之处直接引用a链接，设置href为report.html即可
+从当前index页面跳转到webPage1页面，只需直接在链接之处直接引用a链接，设置href为webPage1即可
